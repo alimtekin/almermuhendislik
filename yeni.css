@@ -1,0 +1,16 @@
+/* sitemizi renklendirelim */
+
+body{
+    background-color: darkcyan;
+    background-position: top right;
+}
+
+ol{
+    color: black;
+    font-size: 20px;
+    font-style: oblique;
+}
+a{
+    color:yellow;
+    font-style: italic;
+}
